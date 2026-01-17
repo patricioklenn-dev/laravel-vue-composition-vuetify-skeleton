@@ -1,11 +1,11 @@
 # Laravel Vue Skeleton
 
-Laravel Vue Skeleton es una aplicación base con Laravel 12, Vue 3.5 (Composition API), Inertia.js y Vuetify 3. Incluye autenticación (login, registro, recuperación de contraseña, verificación de email) y gestión de perfil de usuario. Utiliza Vite 5 como herramienta de build y está configurado para desarrollo con soporte en español.
+Laravel skeleton application with Vue.js, Inertia.js and Vuetify.
 
 ## Stack
 
-- **Backend**: Laravel 12 (PHP 8.2+)
-- **Frontend**: Vue.js 3.5 (Composition API) with Inertia.js
+- **Backend**: Laravel 12
+- **Frontend**: Vue.js 3.5  with Inertia.js
 - **UI Framework**: Vuetify 3
 - **Build Tool**: Vite 5
 - **Testing**: Pest 3 with PHPUnit 11
